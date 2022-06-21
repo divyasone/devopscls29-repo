@@ -9,5 +9,4 @@
  echo "************* Display jenkins Memory space **********"
  free -m
 
- echo "******* show file sizes ***********"
- ls -l
+ 
