@@ -5,3 +5,5 @@ echo "*************Display todat date******************"
 date
 echo "**********Display jenkins memomry space**********"
 free -m
+echo "********"show file list***********"
+ls
