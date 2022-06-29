@@ -1,12 +1,6 @@
- #!/bin/bash
- 
- echo "************* Display root F.S. space *************"
- df -h
+#!/bin/bash
+echo "*************Display root F.s.space**************"
+df -h
+echo "*************Display todat date******************"
+date
 
- echo "************* Display Today Date ****************"
- date
-
- echo "************* Display jenkins Memory space **********"
- free -m
-
- 
